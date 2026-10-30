@@ -1,13 +1,8 @@
-# Blood Donation Management System - Frontend
+# React + Vite
 
-This folder contains the frontend files for the Blood Donation Management System.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Technologies Used
+Currently, two official plugins are available:
 
-* HTML
-* CSS
-* JavaScript
-
-## Purpose
-
-To provide a user interface for donor registration, blood group information, and blood donation requests.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
